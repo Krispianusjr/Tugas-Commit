@@ -52,5 +52,104 @@
             <td>Jalan Apus Paingan</td>
         </tr>
         <tr>
-        </body>
-        </html>
+        </tr>
+  </table></center>
+  <center><table border="1">
+   <tr>
+    <td><center><b>KELAS</b></center></td>
+    <td><center><b>HARI</b></center></td>   
+    <td><center><b>MATA KULIAH</b></center></td>
+    <td><center><b>WAKTU</b></center></td>
+    <td><center><b>RUANG</b></center></td>
+    <td><center><b>DOSEN</b></center></td>
+   </tr>
+   <tr>
+    <td><center>Kelas D</center></td>
+    <td><center>Senin</center></td>
+    <td>Analisis dan Strategi Algoritma</td>
+    <td><center>10.00-13.00</center></td>
+    <td><center>Lab Basis</center></td>
+    <td>Rosalia Arum Kumalasari M.T.</td>
+    </tr>
+   <tr>
+    <td><center>Kelas A</center></td>
+    <td><center>Senin</center></td>
+    <td>Administrasi Basis Data</td>
+    <td><center>13.00-16.00</center></td>
+    <td><center>K.312</center></td>
+    <td>JB. Budi Darmawan S.T.,M</td>
+   </tr>
+   <tr>
+    <td><center>Kelas A</center></td>
+    <td><center>Senin</center></td>
+    <td>Pemograman Berbasis Platform</td>
+    <td><center>16.00-18.00</center></td>
+    <td><center>Lab Basis</center></td>
+    <td>Ir. Kartono Pinaryanto S.T.,M.</td>
+   <tr>
+    <td><center>Kelas A</center></td>
+    <td><center>Selasa</center></td>
+    <td>Algoritma Optimisasi</td>
+    <td><center>07.00-10.00</center></td>
+    <td><center>L.GM FST</center></td>
+    <td>Drs.Hari Suparwito S.J.M.</td>
+    <tr>
+    <td><center>Kelas A</center></td>
+    <td><center>Selasa</center></td>
+    <td>RPL</td>
+    <td><center>13.00-16.00</center></td>
+    <td><center>Lab Basis</center></td>
+    <td>Ir. Kartono Pinaryanto S.T.,M.</td>
+   </tr>
+    <td><center>Kelas A</center></td>
+    <td><center>Rabu</center></td>
+    <td>Pengenalan Pola</td>
+    <td><center>07.00-10.00</center></td>
+    <td><center>LDK.C FST</center></td>
+    <td>Dr. Iwan Binanto</td>
+    </tr>
+    <td><center>Kelas AP</center></td>
+    <td><center>Rabu</center></td>
+    <td>Pengenalan Pola</td>
+    <td><center>13.00-16.00</center></td>
+    <td><center>Lab Basis</center></td>
+    <td>Dr. Iwan Binanto</td>
+   </tr>
+   <tr>
+    <td><center>Kelas AP</center></td>
+    <td><center>Kamis</center></td>
+    <td>Pemograman Berbasis Platform</td>
+    <td><center>07.00-10.00</center></td>
+    <td><center>Lab Basis</center></td>
+    <td>Ir. Kartono Pinaryanto S.T.,M.</td>
+    </tr>
+   <tr>
+    <td><center>Kelas AP</center></td>
+    <td><center>Kamis</center></td>
+    <td>RPL</td>
+    <td><center>10.00-13.00</center></td>
+    <td><center>K.312</center></td>
+    <td>Ir. Kartono Pinaryanto S.T.,M.</td>
+   </tr>
+   <tr>
+    <td><center>Kelas AP</center></td>
+    <td><center>Kamis</center></td>
+    <td>Algoritma Optimisasi</td>
+    <td><center>14.00-17.00</center></td>
+    <td><center>Lab Basis</center></td>
+    <td>Drs.Hari Suparwito S.J.M.</td>
+    </tr>
+   <tr>
+    <td><center>Kelas B</center></td>
+    <td><center>Jumat</center></td>
+    <td>Kewirausahaan</td>
+    <td><center>08.00-10.00</center></td>
+    <td><center>K.312</center></td>
+    <td>Christina Heti Tri Rahmawati S.T.,M.</td>
+   </tr>
+  </table></center>
+  </center>
+  <hr/>
+ </p>
+</body>
+</html>
