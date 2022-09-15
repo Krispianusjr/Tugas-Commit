@@ -1,0 +1,134 @@
+<html> 
+<head>
+	<title>Curiculum Vitae</title><!--Menampilkan judul pada suatu web-->
+</head>
+<body bgcolor="#006699" width="800px"><!--Membuat body memiliki warna dengan bgcolor-->
+	<div align="center"><!--Membuat rata tengah-->
+	<center>
+	<h1>Curiculum Vitae</h1>
+	<!--Membuat huruf menjadi besar (Ukuran H1)-->
+	</center>
+	<hr/>
+	<h2>Biodata Pribadi</h2>
+	<!--Membuat huruf menjadi besar (Ukuran H2) -->
+	<table width="800px"><!-- Membuat sebuah tabel -->
+	<tbody>
+
+		<tr>
+			<td width="25%">1. Nama</td>
+			<td width="1%">:</td>
+			<td>Krispianus Betu</td>
+			<td rowspan="8"><img src="2.jpeg" alt="1" title="1" height="150px" width="120px"></td>
+		</tr>
+		<tr>
+			<td>2. Jenis Kelamin</td>
+			<td>:</td>
+			<td>Laki-laki</td>
+
+		</tr>
+		<tr>
+			<td>3. Tempat Tanggal Lahir</td>
+			<td>:</td>
+			<td>Singkup, 29 Mei 2022</td>
+
+		</tr>
+		<tr>
+			<td>4. Kebangsaan</td>
+			<td>:</td>
+			<td>Indonesia</td>
+
+		</tr>
+		<tr>
+			<td>5. Status</td>
+			<td>:</td>
+			<td>Belum menikah</td>
+
+		</tr>
+		<tr>
+			<td>6. Tinggi, Berat Badan</td>
+			<td>:</td>
+			<td>180 cm, 60 kg</td>
+
+		</tr>
+		<tr>
+			<td>7. Agama</td>
+			<td>:</td>
+			<td>Katholik</td>
+
+		</tr>
+		<tr>
+			<td>8. No Hp</td>
+			<td>:</td>
+			<td>085849042794</td>
+
+		</tr>
+		<tr>
+			<td>9. Alamat</td>
+			<td>:</td>
+			<td>Jalan Apus, Gg. Mangga Paingan</td>
+
+		</tr>
+		<tr>
+			<td>10. Email</td>
+			<td>:</td>
+			<td>krispianusbetu1229@gmail.com</td>
+
+		</tr>
+	 	<tbody>
+		</table>
+			<h2>Riwayat Pendidikan</h2>
+			<table width="800px">
+			<tbody>
+			<tr>
+				<td width="25%">1. Perguruan Tinggi</td>
+				<td width="1%">:</td>
+				<td>Mahasiswa Universitas Sanata Dharma 2020</td>
+
+			</tr>
+			<tr>
+				<td>2. SMA</td>
+				<td>:</td>
+				<td>SMA Santa Maria Nanga Pinoh 2017-2020</td>
+
+			</tr>
+			<tr>
+				<td>3. SMP</td>
+				<td>:</td>
+				<td>SMP N 3 Singkup 2014-2017</td>
+
+			</tr>
+			<tr>
+				<td>4. SD</td>
+				<td>:</td>
+				<td>SD O5 Singkup 2008-2014</td> 
+
+			<tr>
+				<td>5. TK</td>
+				<td>:</td>
+				<td>TK Kartini Jaya 2006-2008</td>
+
+	     	</tr>
+	  		 </tbody>
+			 </table>
+				<h2>Pengalaman Organisasi</h2>
+				<table width="800px">
+		    <tbody>
+			<tr>
+				<td width="25%">1. Himpunan Mahasiswa (HMIF) sebagai Bendahara</td>
+
+			</tr>
+			<tr>
+				<td>2. Badan Eksekutif Mahasiswa USD sebagai 	Humas</td>
+
+			</tr>
+			<tr>
+				<td>3. Pendidikan Generasi Muda dan Kepramukaan USD 2021</td>
+				
+				</head>
+		</body>
+		<html>
+		
+	
+
+
+
