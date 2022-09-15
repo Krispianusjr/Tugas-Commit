@@ -13,4 +13,44 @@
     <h3>TAHUN AKADEMIK 2022/2023 SEMESTER GANJIL</h3><!--Membuat huruf menjadi besar (Ukuran H3) -->
     <table width="800px"><!-- Membuat sebuah tabel -->
     <tbody>
-    </html>
+    <tr>
+            <td width="25%">Nama</td>
+            <td width="1%">:</td>
+            <td><b>Krispianus Betu</b></td>
+            <td rowspan="8"><img src="2.jpeg" alt="1" title="1" height="130px" width="100px"></td>
+        </tr>
+        <tr>
+            <td>NIM</td>
+            <td>:</td>
+            <td>205314033</td>
+        </tr>
+        <tr>
+            <td>Fakultas</td>
+            <td>:</td>
+            <td>Sains dan Teknologi</td>
+        </tr>
+        <tr>
+            <td>Prodi</td>
+            <td>:</td>
+            <td>Informatika</td>
+
+        </tr>
+        <tr>
+            <td>Kelas</td>
+            <td>:</td>
+            <td>Reguler<td>
+        </tr>
+        <tr>
+            <td>Jenjang</td>
+            <td>:</td>
+            <td>S1<td>
+
+        </tr>
+        <tr>
+            <td>Alamat</td>
+            <td>:</td>
+            <td>Jalan Apus Paingan</td>
+        </tr>
+        <tr>
+        </body>
+        </html>
