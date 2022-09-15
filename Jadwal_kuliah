@@ -1,0 +1,16 @@
+<html> 
+<head>
+    <title>Jadwal Kuliah</title><!--Menampilkan judul pada suatu web-->
+</head>
+<body bgcolor="#008B8B" width="800px"><!--Membuat body memiliki warna dengan bgcolor-->
+    <div align="center"><!--Membuat rata tengah-->
+    <center>
+    <h1>JADWAL PERKULIAHAN</h1>
+    <!--Membuat huruf menjadi besar (Ukuran H1)-->
+    </center>
+    <hr/>
+    <h2>UNIVERSITAS SANATA DHARAM YOGYAKARTA</h2><!--Membuat huruf menjadi besar (Ukuran H2) -->
+    <h3>TAHUN AKADEMIK 2022/2023 SEMESTER GANJIL</h3><!--Membuat huruf menjadi besar (Ukuran H3) -->
+    <table width="800px"><!-- Membuat sebuah tabel -->
+    <tbody>
+    </html>
